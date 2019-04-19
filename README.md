@@ -1,5 +1,6 @@
 # docker_xdebug_loopback
-sudo curl -o /Library/LaunchDaemons/com.russiameb.docker_xdebug_lookback.plist https://github.com/russiameb/docker_xdebug_loopback/blob/master/com.russiameb.docker_xdebug_lookback.plist
+sudo curl -o /Library/LaunchDaemons/com.russiameb.docker_xdebug_lookback.plist https://raw.githubusercontent.com/ailme/docker_xdebug_loopback/master/com.russiameb.docker_xdebug_lookback.plist
 
-
-        sudo ifconfig lo0 alias 10.254.254.254
+```
+sudo ifconfig lo0 alias 10.254.254.254
+```
